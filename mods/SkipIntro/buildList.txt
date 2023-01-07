@@ -1,2 +1,2 @@
 NTSC, exe, 0x80033e38, 0x0, asm/hook.s
-NTSC, header, 0x8000B0B8, 0x0, src/SkipIntro.c, mainFunc.bin
+NTSC, header, 0x8000B0B8, 0x0, src/SkipIntro.c, MainFunc.bin
