@@ -14,5 +14,3 @@ void mainFunc()
    }
 
 }
-
-Pushed First Git Changes
