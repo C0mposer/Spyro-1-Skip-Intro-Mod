@@ -1,0 +1,1 @@
+TheAdventureBegins = 0x8002d440;

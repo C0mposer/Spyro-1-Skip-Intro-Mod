@@ -1,0 +1,2 @@
+_isPastTitleScreen = 0x8007566c;
+_globalTimer; //0x800749e0;
