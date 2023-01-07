@@ -9,7 +9,7 @@ This mod was created using the [psx-modding-toolchain by Redhot](https://github.
 
 ## Downloads
 #### Main Download
- -  **Download Patch**: Download the main [xdelta patch here](https://github.com/C0mposer/Spyro-1-Gem-Redistributer-Mod/releases/download/beta0.5/spyro1_GemRedistributer.xdelta), then your personal Spyro 1 bin file can be [patched here](https://hack64.net/tools/patcher.php)
+ -  **Download Patch**: Download the main [xdelta patch here](https://github.com/C0mposer/Spyro-1-Skip-Intro-Mod/releases/download/Release1/spyro1_SkipIntro.xdelta), then your personal Spyro 1 bin file can be [patched here](https://hack64.net/tools/patcher.php)
  #### Other Downloads
  -  **CUE File**: Some emulators will require you to have a cue file to go along with this bin file, if you need one, you can create a cue for your patched bin [here](https://www.duckstation.org/cue-maker/)
 
@@ -18,7 +18,7 @@ This mod was created using the [psx-modding-toolchain by Redhot](https://github.
 ## Compiling & Building
 
 1. Compiling this mod requires the [psx-modding-toolchain by Redhot](https://github.com/mateusfavarin/psx-modding-toolchain). 
-2. Once you have installed it and its pre-requisites, place the folder [from the source code download](https://github.com/C0mposer/Spyro-1-Gem-Redistributer-Mod/archive/refs/heads/master.zip), into the **/games/** folder of your psx-modding-toolchain directory.
+2. Once you have installed it and its pre-requisites, place the folder [from the source code download](https://github.com/C0mposer/Spyro-1-Skip-Intro-Mod/archive/refs/heads/master.zip), into the **/games/** folder of your psx-modding-toolchain directory.
 3. Browse to the **/mods/SkipIntro/** directory, and open the MOD.bat file. From here you should be prompted with multiple options in a command line gui
 
 #### Building BIN/CUE
