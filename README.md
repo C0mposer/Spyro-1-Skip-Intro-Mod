@@ -2,7 +2,7 @@
 
 # Spyro 1 Skip Intro Mod
 
-This is a simple mod for the original Spyro the Dragon that skips the title screen, and intro cutscene. Is often used in conjunction with my practice codes for a faster game boot time.
+This is a simple mod for the original Spyro the Dragon that skips the title screen, and intro cutscene. Is often used in conjunction with [my practice codes](https://discord.gg/rm4ZnjzeZR) for a faster game boot time.
 
 This mod was created using the [psx-modding-toolchain by Redhot](https://github.com/mateusfavarin/psx-modding-toolchain). 
 
