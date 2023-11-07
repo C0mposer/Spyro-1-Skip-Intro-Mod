@@ -3,11 +3,11 @@
 **This utility aims to make writing mods/hacks for games in C/C++ easier.** It streamlines the process of compiling C/C++ with the intention of being injecting into a game, which is a seperate already compiled binary. 
 
 #### This utility currently supports:
-Playstation 1 Games
-Playstation 2 Games
-Gamecube Games
-Wii Games*
-N64 Games* *(needs further testing)*
+- Playstation 1 Games
+- Playstation 2 Games
+- Gamecube Games
+- Wii Games*
+- N64 Games* *(needs further testing)*
 
 ## Features:
 1. GUI to set up project settings
